@@ -1,7 +1,8 @@
-# build/
-# .gradle/
+build/
+.gradle/
 npm-app/node_modules/
-# npm-app/build/
-# npm-app/.gradle/
-# java-app/build/
-# java-app/.gradle/
+npm-app/build/
+npm-app/.gradle/
+java-app/build/
+java-app/.gradle/
+java-app/bin/
