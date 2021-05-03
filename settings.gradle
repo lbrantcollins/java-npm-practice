@@ -9,3 +9,4 @@ pluginManagement {
 rootProject.name = 'java-npm-practice'
 
 include 'java-app'
+include 'npm-app'
